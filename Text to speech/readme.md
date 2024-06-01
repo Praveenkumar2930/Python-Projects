@@ -14,4 +14,4 @@ Just run the python file
 image.png
 
 ## *Author Name*
-BlockmasterPlayz
+Praveen
